@@ -5,3 +5,5 @@ if __name__ == "__main__":
     i = get_int("y: ")
     z = x * i
     print(f"{x}*{i} = {z}")
+
+    print("fim!")
