@@ -6,4 +6,4 @@ if __name__ == "__main__":
     z = x * i
     print(f"{x}*{i} = {z}")
 
-    print("fim!")
+    print("done!")
